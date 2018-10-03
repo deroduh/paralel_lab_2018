@@ -1,0 +1,5 @@
+/home/dero/RiderProjects/lab_1_paralel/task_1/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/dero/RiderProjects/lab_1_paralel/task_1/bin/Debug/task_1.exe.mdb
+/home/dero/RiderProjects/lab_1_paralel/task_1/bin/Debug/task_1.exe
+/home/dero/RiderProjects/lab_1_paralel/task_1/obj/Debug/task_1.exe
+/home/dero/RiderProjects/lab_1_paralel/task_1/obj/Debug/task_1.exe.mdb
